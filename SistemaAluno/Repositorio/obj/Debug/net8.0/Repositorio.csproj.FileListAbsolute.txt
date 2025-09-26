@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\bin\Debug\net8.0\Repositorio.deps.json
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\bin\Debug\net8.0\Repositorio.dll
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\bin\Debug\net8.0\Dominio.dll
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\Repositorio.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\Repositorio.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\Reposito.F4C96B80.Up2Date
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\Repositorio.dll
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\refint\Repositorio.dll
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\Repositorio.pdb
+C:\Users\USER\OneDrive\Área de Trabalho\Full esteck\Nova pasta\SistemaAluno\Repositorio\obj\Debug\net8.0\ref\Repositorio.dll

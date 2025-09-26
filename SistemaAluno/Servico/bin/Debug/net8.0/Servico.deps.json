@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Servico/1.0.0": {
+        "dependencies": {
+          "Repositorio": "1.0.0"
+        },
+        "runtime": {
+          "Servico.dll": {}
+        }
+      },
+      "Dominio/1.0.0": {
+        "runtime": {
+          "Dominio.dll": {}
+        }
+      },
+      "Repositorio/1.0.0": {
+        "dependencies": {
+          "Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Repositorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Servico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repositorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

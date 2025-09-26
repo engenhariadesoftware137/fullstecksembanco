@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC75AAB-0558-4822-B725-927C57D5AB4E}|WebApi\\WebApi.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\full esteck\\nova pasta\\sistemaaluno\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC75AAB-0558-4822-B725-927C57D5AB4E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F3DF1-B9BA-438E-A4D0-B80690502182}|Servico\\Servico.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\full esteck\\nova pasta\\sistemaaluno\\servico\\iestudanteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F3DF1-B9BA-438E-A4D0-B80690502182}|Servico\\Servico.csproj|solutionrelative:servico\\iestudanteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F3DF1-B9BA-438E-A4D0-B80690502182}|Servico\\Servico.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\full esteck\\nova pasta\\sistemaaluno\\servico\\estudanteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F3DF1-B9BA-438E-A4D0-B80690502182}|Servico\\Servico.csproj|solutionrelative:servico\\estudanteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB763FC-BADB-424A-9EC1-A2BAE9CAEA2C}|Repositorio\\Repositorio.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\full esteck\\nova pasta\\sistemaaluno\\repositorio\\estudanterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB763FC-BADB-424A-9EC1-A2BAE9CAEA2C}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\estudanterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC75AAB-0558-4822-B725-927C57D5AB4E}|WebApi\\WebApi.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\full esteck\\nova pasta\\sistemaaluno\\webapi\\controllers\\estudantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC75AAB-0558-4822-B725-927C57D5AB4E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\estudantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudanteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\Repositorio\\EstudanteRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\EstudanteRepositorio.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\Repositorio\\EstudanteRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\EstudanteRepositorio.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:13:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEstudanteServico.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\Servico\\IEstudanteServico.cs",
+              "RelativeDocumentMoniker": "Servico\\IEstudanteServico.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\Servico\\IEstudanteServico.cs",
+              "RelativeToolTip": "Servico\\IEstudanteServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:11:51.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudanteServico.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\Servico\\EstudanteServico.cs",
+              "RelativeDocumentMoniker": "Servico\\EstudanteServico.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\Servico\\EstudanteServico.cs",
+              "RelativeToolTip": "Servico\\EstudanteServico.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:11:46.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:07:15.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudanteController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\WebApi\\Controllers\\EstudanteController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\EstudanteController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u00C1rea de Trabalho\\Full esteck\\Nova pasta\\SistemaAluno\\WebApi\\Controllers\\EstudanteController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\EstudanteController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:03:54.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
